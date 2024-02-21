@@ -1,4 +1,5 @@
 1.open the document in vs code then open terminal:
+cd quiz-master
 cd quizapps
 2.Install dependencies:
 npm install
